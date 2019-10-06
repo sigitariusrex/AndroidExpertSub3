@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CinemaInt</string>
+    <string name="title_film">Acara TV</string>
+    <string name="title_movie">Film</string>
+
+    <string name="movie">Selamat datang di halaman Movie</string>
+    <string name="film">Selamat datang di halaman Film</string>
+
+    <string name="lang">Selamat datang di CinemaGit</string>
+
+    <string name="films_name">Nama Film</string>
+    <string name="from">Asal</string>
+
+    <string name="movies_name">Nama Movie</string>
+    <string name="from_movie">Asal Movie</string>
+</resources>
